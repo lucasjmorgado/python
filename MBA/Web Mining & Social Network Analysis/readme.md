@@ -5,9 +5,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [python]
-- [selenium]
-- [requests]
+- python
+- selenium
+- requests
 
 <p align="center">WordCloud Gerada</p>
 <p align="center">
