@@ -1,12 +1,3 @@
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
 <h1 align="center">Utilizando Python Selenium/Request para análise de vagas no LinkedIn</h1>
 <p align="center">Neste projeto criamos uma nuvem de palavras para vagas de engenharia de dados em portugal</p>
 
