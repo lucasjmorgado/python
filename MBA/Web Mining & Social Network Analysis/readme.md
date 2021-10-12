@@ -4,4 +4,7 @@
 <br>
 
 <p align="center">WordCloud Gerada</p>
-<img src="https://github.com/lucasjmorgado/python/blob/main/MBA/Web%20Mining%20%26%20Social%20Network%20Analysis/wordCloud.png"/>
+<img align="center" src="https://github.com/lucasjmorgado/python/blob/main/MBA/Web%20Mining%20%26%20Social%20Network%20Analysis/wordCloud.png"/>
+
+<p align="center">Top 20 palavras mais faladas</p>
+<img align="center" src="https://github.com/lucasjmorgado/python/blob/main/MBA/Web%20Mining%20%26%20Social%20Network%20Analysis/top20.png"/>
